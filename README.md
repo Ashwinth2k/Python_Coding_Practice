@@ -1,2 +1,2 @@
 # Python_Coding_Practice
-Here are some Pyhton codes that I have practised for the interviews. 
+Here are some Python codes that I have practiced for the interviews. 
