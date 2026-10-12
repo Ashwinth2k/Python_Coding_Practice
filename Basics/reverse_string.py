@@ -1,4 +1,4 @@
-#!usr/bin/python2
+#!usr/bin/python3
 
 #Method : 1
 #Write a Python program to reverse a string without using a built-in reverse function.

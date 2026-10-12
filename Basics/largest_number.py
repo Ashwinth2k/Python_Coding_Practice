@@ -1,4 +1,4 @@
-#!usr/bin/python2
+#!usr/bin/python3
 
 #Method : 1
 #Write a Python program to find the largest number in a list without using max().
